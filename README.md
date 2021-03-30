@@ -2,6 +2,7 @@
 <h3 align="center">I am an enthusiastic learner trying to figure out new stuffs everyday | I believe in letting my actions speak rather than my bio |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaliq-786&label=Profile%20views&color=0e75b6&style=flat" alt="khaliq-786" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
 - 🌱 I’m currently learning **Web development, Android development and practicing competitive coding.**
 
